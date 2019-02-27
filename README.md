@@ -1,2 +1,2 @@
 # duende
-Trabalho de AEDS
+Trabalho de AEDS para estudo de grafos
